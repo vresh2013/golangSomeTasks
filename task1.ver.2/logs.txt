@@ -1,0 +1,410 @@
+// plain
+error = dial tcp 94.100.180.1:80: i/o timeout
+connected to 94.100.180.2:80
+error = dial tcp 94.100.180.3:80: i/o timeout
+error = dial tcp 94.100.180.4:80: i/o timeout
+error = dial tcp 94.100.180.5:80: i/o timeout
+error = dial tcp 94.100.180.6:80: i/o timeout
+error = dial tcp 94.100.180.7:80: i/o timeout
+error = dial tcp 94.100.180.8:80: i/o timeout
+error = dial tcp 94.100.180.9:80: i/o timeout
+error = dial tcp 94.100.180.10:80: i/o timeout
+error = dial tcp 94.100.180.11:80: i/o timeout
+connected to 94.100.180.12:80
+error = dial tcp 94.100.180.13:80: i/o timeout
+error = dial tcp 94.100.180.14:80: i/o timeout
+error = dial tcp 94.100.180.15:80: i/o timeout
+error = dial tcp 94.100.180.16:80: i/o timeout
+error = dial tcp 94.100.180.17:80: i/o timeout
+connected to 94.100.180.18:80
+connected to 94.100.180.19:80
+connected to 94.100.180.20:80
+error = dial tcp 94.100.180.21:80: i/o timeout
+error = dial tcp 94.100.180.22:80: i/o timeout
+connected to 94.100.180.23:80
+connected to 94.100.180.24:80
+connected to 94.100.180.25:80
+connected to 94.100.180.26:80
+error = dial tcp 94.100.180.27:80: i/o timeout
+error = dial tcp 94.100.180.28:80: i/o timeout
+error = dial tcp 94.100.180.29:80: i/o timeout
+error = dial tcp 94.100.180.30:80: i/o timeout
+error = dial tcp 94.100.180.31:80: i/o timeout
+error = dial tcp 94.100.180.32:80: i/o timeout
+error = dial tcp 94.100.180.33:80: i/o timeout
+error = dial tcp 94.100.180.34:80: i/o timeout
+connected to 94.100.180.35:80
+connected to 94.100.180.36:80
+error = dial tcp 94.100.180.37:80: i/o timeout
+connected to 94.100.180.38:80
+connected to 94.100.180.39:80
+connected to 94.100.180.40:80
+error = dial tcp 94.100.180.41:80: i/o timeout
+connected to 94.100.180.42:80
+connected to 94.100.180.43:80
+error = dial tcp 94.100.180.44:80: i/o timeout
+error = dial tcp 94.100.180.45:80: i/o timeout
+error = dial tcp 94.100.180.46:80: i/o timeout
+error = dial tcp 94.100.180.47:80: i/o timeout
+error = dial tcp 94.100.180.48:80: i/o timeout
+connected to 94.100.180.49:80
+error = dial tcp 94.100.180.50:80: i/o timeout
+error = dial tcp 94.100.180.51:80: i/o timeout
+error = dial tcp 94.100.180.52:80: i/o timeout
+error = dial tcp 94.100.180.53:80: i/o timeout
+connected to 94.100.180.54:80
+connected to 94.100.180.55:80
+error = dial tcp 94.100.180.56:80: i/o timeout
+error = dial tcp 94.100.180.57:80: i/o timeout
+error = dial tcp 94.100.180.58:80: i/o timeout
+connected to 94.100.180.59:80
+connected to 94.100.180.60:80
+connected to 94.100.180.61:80
+connected to 94.100.180.62:80
+connected to 94.100.180.63:80
+connected to 94.100.180.64:80
+error = dial tcp 94.100.180.65:80: i/o timeout
+connected to 94.100.180.66:80
+connected to 94.100.180.67:80
+connected to 94.100.180.68:80
+connected to 94.100.180.69:80
+connected to 94.100.180.70:80
+error = dial tcp 94.100.180.71:80: i/o timeout
+error = dial tcp 94.100.180.72:80: i/o timeout
+error = dial tcp 94.100.180.73:80: i/o timeout
+error = dial tcp 94.100.180.74:80: i/o timeout
+error = dial tcp 94.100.180.75:80: i/o timeout
+error = dial tcp 94.100.180.76:80: i/o timeout
+error = dial tcp 94.100.180.77:80: i/o timeout
+error = dial tcp 94.100.180.78:80: i/o timeout
+error = dial tcp 94.100.180.79:80: i/o timeout
+error = dial tcp 94.100.180.80:80: i/o timeout
+error = dial tcp 94.100.180.81:80: i/o timeout
+error = dial tcp 94.100.180.82:80: i/o timeout
+error = dial tcp 94.100.180.83:80: i/o timeout
+error = dial tcp 94.100.180.84:80: i/o timeout
+error = dial tcp 94.100.180.85:80: i/o timeout
+error = dial tcp 94.100.180.86:80: i/o timeout
+connected to 94.100.180.87:80
+error = dial tcp 94.100.180.88:80: i/o timeout
+error = dial tcp 94.100.180.89:80: i/o timeout
+error = dial tcp 94.100.180.90:80: i/o timeout
+error = dial tcp 94.100.180.91:80: i/o timeout
+error = dial tcp 94.100.180.92:80: i/o timeout
+error = dial tcp 94.100.180.93:80: i/o timeout
+error = dial tcp 94.100.180.94:80: i/o timeout
+error = dial tcp 94.100.180.95:80: i/o timeout
+error = dial tcp 94.100.180.96:80: i/o timeout
+error = dial tcp 94.100.180.97:80: i/o timeout
+error = dial tcp 94.100.180.98:80: i/o timeout
+error = dial tcp 94.100.180.99:80: i/o timeout
+connected to 94.100.180.100:80
+took 21.3584018 sec
+
+
+// async
+connected to 94.100.180.35:80
+connected to 94.100.180.24:80
+connected to 94.100.180.59:80
+connected to 94.100.180.36:80
+connected to 94.100.180.25:80
+connected to 94.100.180.12:80
+connected to 94.100.180.66:80
+connected to 94.100.180.40:80
+connected to 94.100.180.100:80
+connected to 94.100.180.43:80
+connected to 94.100.180.68:80
+connected to 94.100.180.42:80
+connected to 94.100.180.2:80
+connected to 94.100.180.67:80
+connected to 94.100.180.26:80
+connected to 94.100.180.23:80
+connected to 94.100.180.38:80
+connected to 94.100.180.64:80
+connected to 94.100.180.19:80
+connected to 94.100.180.62:80
+connected to 94.100.180.39:80
+connected to 94.100.180.20:80
+connected to 94.100.180.60:80
+connected to 94.100.180.61:80
+connected to 94.100.180.49:80
+connected to 94.100.180.69:80
+connected to 94.100.180.55:80
+connected to 94.100.180.54:80
+connected to 94.100.180.18:80
+connected to 94.100.180.70:80
+connected to 94.100.180.87:80
+connected to 94.100.180.63:80
+error = dial tcp 94.100.180.6:80: i/o timeout
+error = dial tcp 94.100.180.13:80: i/o timeout
+error = dial tcp 94.100.180.1:80: i/o timeout
+error = dial tcp 94.100.180.27:80: i/o timeout
+error = dial tcp 94.100.180.37:80: i/o timeout
+error = dial tcp 94.100.180.14:80: i/o timeout
+error = dial tcp 94.100.180.56:80: i/o timeout
+error = dial tcp 94.100.180.58:80: i/o timeout
+error = dial tcp 94.100.180.15:80: i/o timeout
+error = dial tcp 94.100.180.33:80: i/o timeout
+error = dial tcp 94.100.180.28:80: i/o timeout
+error = dial tcp 94.100.180.29:80: i/o timeout
+error = dial tcp 94.100.180.80:80: i/o timeout
+error = dial tcp 94.100.180.76:80: i/o timeout
+error = dial tcp 94.100.180.17:80: i/o timeout
+error = dial tcp 94.100.180.52:80: i/o timeout
+error = dial tcp 94.100.180.16:80: i/o timeout
+error = dial tcp 94.100.180.84:80: i/o timeout
+error = dial tcp 94.100.180.95:80: i/o timeout
+error = dial tcp 94.100.180.50:80: i/o timeout
+error = dial tcp 94.100.180.81:80: i/o timeout
+error = dial tcp 94.100.180.53:80: i/o timeout
+error = dial tcp 94.100.180.65:80: i/o timeout
+error = dial tcp 94.100.180.51:80: i/o timeout
+error = dial tcp 94.100.180.48:80: i/o timeout
+error = dial tcp 94.100.180.91:80: i/o timeout
+error = dial tcp 94.100.180.93:80: i/o timeout
+error = dial tcp 94.100.180.47:80: i/o timeout
+error = dial tcp 94.100.180.57:80: i/o timeout
+error = dial tcp 94.100.180.94:80: i/o timeout
+error = dial tcp 94.100.180.77:80: i/o timeout
+error = dial tcp 94.100.180.7:80: i/o timeout
+error = dial tcp 94.100.180.98:80: i/o timeout
+error = dial tcp 94.100.180.8:80: i/o timeout
+error = dial tcp 94.100.180.9:80: i/o timeout
+error = dial tcp 94.100.180.97:80: i/o timeout
+error = dial tcp 94.100.180.32:80: i/o timeout
+error = dial tcp 94.100.180.96:80: i/o timeout
+error = dial tcp 94.100.180.82:80: i/o timeout
+error = dial tcp 94.100.180.11:80: i/o timeout
+error = dial tcp 94.100.180.99:80: i/o timeout
+error = dial tcp 94.100.180.46:80: i/o timeout
+error = dial tcp 94.100.180.30:80: i/o timeout
+error = dial tcp 94.100.180.86:80: i/o timeout
+error = dial tcp 94.100.180.3:80: i/o timeout
+error = dial tcp 94.100.180.44:80: i/o timeout
+error = dial tcp 94.100.180.21:80: i/o timeout
+error = dial tcp 94.100.180.41:80: i/o timeout
+error = dial tcp 94.100.180.75:80: i/o timeout
+error = dial tcp 94.100.180.88:80: i/o timeout
+error = dial tcp 94.100.180.34:80: i/o timeout
+error = dial tcp 94.100.180.22:80: i/o timeout
+error = dial tcp 94.100.180.45:80: i/o timeout
+error = dial tcp 94.100.180.92:80: i/o timeout
+error = dial tcp 94.100.180.5:80: i/o timeout
+error = dial tcp 94.100.180.4:80: i/o timeout
+error = dial tcp 94.100.180.90:80: i/o timeout
+error = dial tcp 94.100.180.89:80: i/o timeout
+error = dial tcp 94.100.180.31:80: i/o timeout
+error = dial tcp 94.100.180.10:80: i/o timeout
+error = dial tcp 94.100.180.78:80: i/o timeout
+error = dial tcp 94.100.180.73:80: i/o timeout
+error = dial tcp 94.100.180.79:80: i/o timeout
+error = dial tcp 94.100.180.72:80: i/o timeout
+error = dial tcp 94.100.180.85:80: i/o timeout
+error = dial tcp 94.100.180.83:80: i/o timeout
+error = dial tcp 94.100.180.71:80: i/o timeout
+error = dial tcp 94.100.180.74:80: i/o timeout
+took 0.3359249 sec
+
+
+// multiProcess
+connected to 94.100.180.20:80
+
+connected to 94.100.180.35:80
+
+connected to 94.100.180.24:80
+
+connected to 94.100.180.67:80
+
+connected to 94.100.180.43:80
+
+connected to 94.100.180.19:80
+
+connected to 94.100.180.70:80
+
+connected to 94.100.180.87:80
+
+connected to 94.100.180.60:80
+
+connected to 94.100.180.18:80
+
+connected to 94.100.180.61:80
+
+connected to 94.100.180.2:80
+
+connected to 94.100.180.100:80
+
+error = dial tcp 94.100.180.10:80: i/o timeout
+
+error = dial tcp 94.100.180.34:80: i/o timeout
+
+connected to 94.100.180.49:80
+
+error = dial tcp 94.100.180.1:80: i/o timeout
+
+error = dial tcp 94.100.180.3:80: i/o timeout
+
+connected to 94.100.180.69:80
+
+error = dial tcp 94.100.180.16:80: i/o timeout
+
+error = dial tcp 94.100.180.50:80: i/o timeout
+
+connected to 94.100.180.38:80
+
+connected to 94.100.180.62:80
+
+error = dial tcp 94.100.180.6:80: i/o timeout
+
+connected to 94.100.180.66:80
+
+connected to 94.100.180.68:80
+
+error = dial tcp 94.100.180.52:80: i/o timeout
+
+connected to 94.100.180.63:80
+
+connected to 94.100.180.64:80
+
+error = dial tcp 94.100.180.53:80: i/o timeout
+
+error = dial tcp 94.100.180.30:80: i/o timeout
+
+error = dial tcp 94.100.180.88:80: i/o timeout
+
+error = dial tcp 94.100.180.75:80: i/o timeout
+
+error = dial tcp 94.100.180.81:80: i/o timeout
+
+error = dial tcp 94.100.180.73:80: i/o timeout
+
+error = dial tcp 94.100.180.92:80: i/o timeout
+
+error = dial tcp 94.100.180.11:80: i/o timeout
+
+connected to 94.100.180.55:80
+
+error = dial tcp 94.100.180.89:80: i/o timeout
+
+error = dial tcp 94.100.180.99:80: i/o timeout
+
+error = dial tcp 94.100.180.94:80: i/o timeout
+
+error = dial tcp 94.100.180.98:80: i/o timeout
+
+connected to 94.100.180.42:80
+
+connected to 94.100.180.40:80
+
+connected to 94.100.180.23:80
+
+error = dial tcp 94.100.180.8:80: i/o timeout
+
+error = dial tcp 94.100.180.4:80: i/o timeout
+
+error = dial tcp 94.100.180.97:80: i/o timeout
+
+connected to 94.100.180.36:80
+
+connected to 94.100.180.25:80
+
+connected to 94.100.180.54:80
+
+connected to 94.100.180.39:80
+
+connected to 94.100.180.12:80
+
+connected to 94.100.180.26:80
+
+connected to 94.100.180.59:80
+
+error = dial tcp 94.100.180.71:80: i/o timeout
+
+error = dial tcp 94.100.180.45:80: i/o timeout
+
+error = dial tcp 94.100.180.76:80: i/o timeout
+
+error = dial tcp 94.100.180.9:80: i/o timeout
+
+error = dial tcp 94.100.180.44:80: i/o timeout
+
+error = dial tcp 94.100.180.86:80: i/o timeout
+
+error = dial tcp 94.100.180.72:80: i/o timeout
+
+error = dial tcp 94.100.180.90:80: i/o timeout
+
+error = dial tcp 94.100.180.47:80: i/o timeout
+
+error = dial tcp 94.100.180.46:80: i/o timeout
+
+error = dial tcp 94.100.180.95:80: i/o timeout
+
+error = dial tcp 94.100.180.85:80: i/o timeout
+
+error = dial tcp 94.100.180.83:80: i/o timeout
+
+error = dial tcp 94.100.180.84:80: i/o timeout
+
+error = dial tcp 94.100.180.51:80: i/o timeout
+
+error = dial tcp 94.100.180.22:80: i/o timeout
+
+error = dial tcp 94.100.180.74:80: i/o timeout
+
+error = dial tcp 94.100.180.48:80: i/o timeout
+
+error = dial tcp 94.100.180.17:80: i/o timeout
+
+error = dial tcp 94.100.180.91:80: i/o timeout
+
+error = dial tcp 94.100.180.96:80: i/o timeout
+
+error = dial tcp 94.100.180.65:80: i/o timeout
+
+error = dial tcp 94.100.180.93:80: i/o timeout
+
+error = dial tcp 94.100.180.32:80: i/o timeout
+
+error = dial tcp 94.100.180.56:80: i/o timeout
+
+error = dial tcp 94.100.180.41:80: i/o timeout
+
+error = dial tcp 94.100.180.13:80: i/o timeout
+
+error = dial tcp 94.100.180.79:80: i/o timeout
+
+error = dial tcp 94.100.180.80:80: i/o timeout
+
+error = dial tcp 94.100.180.77:80: i/o timeout
+
+error = dial tcp 94.100.180.37:80: i/o timeout
+
+error = dial tcp 94.100.180.27:80: i/o timeout
+
+error = dial tcp 94.100.180.57:80: i/o timeout
+
+error = dial tcp 94.100.180.33:80: i/o timeout
+
+error = dial tcp 94.100.180.5:80: i/o timeout
+
+error = dial tcp 94.100.180.28:80: i/o timeout
+
+error = dial tcp 94.100.180.78:80: i/o timeout
+
+error = dial tcp 94.100.180.21:80: i/o timeout
+
+error = dial tcp 94.100.180.15:80: i/o timeout
+
+error = dial tcp 94.100.180.31:80: i/o timeout
+
+error = dial tcp 94.100.180.14:80: i/o timeout
+
+error = dial tcp 94.100.180.58:80: i/o timeout
+
+error = dial tcp 94.100.180.7:80: i/o timeout
+
+error = dial tcp 94.100.180.82:80: i/o timeout
+
+error = dial tcp 94.100.180.29:80: i/o timeout
+
+took 0.7859155 sec
